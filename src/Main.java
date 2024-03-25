@@ -15,3 +15,20 @@ public class Main {
         }
     }
 }
+
+//Hello, a commit attempt
+//Hello, a commit attempt
+//Hello, a commit attempt
+//Hello, a commit attempt
+//Hello, a commit attempt
+//Hello, a commit attempt
+
+//public class RemoveChars {
+//    public static String remove(String str) {
+//        if (str.length() <= 2) {
+//            return str;
+//        } else {
+//            return str.substring(1, str.length() - 1);
+//        }
+//    }
+//}
